@@ -66,7 +66,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background-image: url('../img/bg header.jpg'); /* Ganti dengan gambar yang sesuai */
+    background-image: url('bg header.jpg'); /* Ganti dengan gambar yang sesuai */
     background-size: cover;
     background-position: center;
     color: rgb(248, 244, 244);
@@ -151,7 +151,7 @@ header {
 /* Analysis Section */
 #analysis {
     padding: 4rem 2rem;
-    background-image: url("../img/bg\ analysis.jpg"); /* Add background image */
+    background-image: url("bg analysis.jpg"); /* Add background image */
     background-size: cover; /* Cover the entire section */
     background-position: center; /* Center the image */
 
@@ -492,7 +492,7 @@ header {
     .footer {
       color: white;
       text-align: center;
-      background-image: url('../img/bg\ footer.jpg');
+      background-image: url('bg footer.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
