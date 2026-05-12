@@ -337,7 +337,7 @@ header {
     color: black;
     padding: 50px 20px;
     text-align: center;
-    background-image: url("../img/bg\ bundling.jpg"); /* Ganti dengan path gambar Anda */
+    background-image: url("bg bundling.jpg"); /* Ganti dengan path gambar Anda */
     background-size: cover; /* Memastikan gambar menutupi seluruh area */
     background-repeat: no-repeat; /* Mencegah gambar diulang */
     background-position: center center; /* Memposisikan gambar di tengah */
